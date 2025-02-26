@@ -11,6 +11,6 @@
 
 ## Hecho por:
 
-###Ana García
+###Vladimir Vásquez
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: www.linkedin.com/in/vladi-vasquez
